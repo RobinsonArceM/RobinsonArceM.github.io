@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+
+# Site settings
+title: "Portfolio"
+author: Robinson Arce M
+email: email@email.com
+description: "Doctor in Sciences and Data Scientist Portfolio"
+
+# Social links (optional)
+github_username: RobinsonArceM
+linkedin: your-linkedin-profile-link
+
+# Profile Image 
+avatar: /assets/profile.jpg
