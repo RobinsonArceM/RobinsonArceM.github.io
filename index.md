@@ -20,7 +20,7 @@ Hello! I’m Robinson, a biochemist and data scientist with experience in AI-dri
 
 <!-- Project 1 -->
 <div style="width: 45%; margin: 10px;">
-  <h3><a href="./project1.md">Insect Meal Composition Prediction</a></h3>
+  <h3><a href="./project1.html">Insect Meal Composition Prediction</a></h3>
   <img src="./assets/placeholder1.png" alt="Insect Meal Prediction" style="width:100%; height:auto;">
   <p><strong>Description:</strong> Developed a machine learning model to predict the nutritional composition of insect meal based on feeding conditions and diet.</p>
   <p><strong>Skills Used:</strong> Python, Machine Learning, Data Visualization</p>
@@ -28,7 +28,7 @@ Hello! I’m Robinson, a biochemist and data scientist with experience in AI-dri
 
 <!-- Project 2 -->
 <div style="width: 45%; margin: 10px;">
-  <h3><a href="./project2.md">EDF File Analysis and Event Detection</a></h3>
+  <h3><a href="./project2.html">EDF File Analysis and Event Detection</a></h3>
   <img src="./assets/placeholder2.png" alt="EDF File Analysis" style="width:100%; height:auto;">
   <p><strong>Description:</strong> Processed and analyzed EDF+ files, extracting relevant events for biological studies.</p>
   <p><strong>Skills Used:</strong> Python, Pandas, Signal Analysis</p>
