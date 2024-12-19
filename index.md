@@ -28,7 +28,7 @@ Hello! I’m Robinson, a biochemist and data scientist with experience in AI-dri
 
 <!-- Project 2 -->
 <div style="width: 45%; margin: 10px;">
-  <h3><a href="./project2.md">EDF File Analysis and Event Detection</a></h3>
+  <h3><a href="./project2">EDF File Analysis and Event Detection</a></h3>
   <img src="./assets/placeholder2.png" alt="EDF File Analysis" style="width:100%; height:auto;">
   <p><strong>Description:</strong> Processed and analyzed EDF+ files, extracting relevant events for biological studies.</p>
   <p><strong>Skills Used:</strong> Python, Pandas, Signal Analysis</p>
