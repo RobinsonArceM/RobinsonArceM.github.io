@@ -20,7 +20,7 @@ Hello! I’m Robinson, a biochemist and data scientist with experience in AI-dri
 
 <!-- Project 1 -->
 <div style="width: 45%; margin: 10px;">
-  <h3><a href="./project1.md">Insect Meal Composition Prediction</a></h3>
+  <h3><a href="./project1">Insect Meal Composition Prediction</a></h3>
   <img src="./assets/placeholder1.png" alt="Insect Meal Prediction" style="width:100%; height:auto;">
   <p><strong>Description:</strong> Developed a machine learning model to predict the nutritional composition of insect meal based on feeding conditions and diet.</p>
   <p><strong>Skills Used:</strong> Python, Machine Learning, Data Visualization</p>
