@@ -48,7 +48,7 @@ My journey combines deep scientific investigation with cutting-edge data science
 Feel free to connect with me for collaborations, inquiries or any idea you want to discuss:
 - **Email:**: arcebq@gmail.com
 - **LinkedIn:** [Robinson Arce Molina](https://www.linkedin.com/in/robinson-arce-molina-4566208b/)  
-- **GitHub** [RobinsonArceM](https://github.com/RobinsonArceM)  
+
 
 ---
 
