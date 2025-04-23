@@ -1,5 +1,4 @@
-# Welcome to My Portfolio  
-Robinson Arce M. | PhD, Cellular & Molecular Biology | Data Scientist<br>
+# About me  
 
 I combine a scientific PhD and startup experience to build data-driven solutions using Python, AI, and Machine Learning. My work focuses on applying these skills to predictive modeling and biotech challenges. This portfolio showcases some key projects I have worked on.
 
