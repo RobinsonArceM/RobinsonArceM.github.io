@@ -7,15 +7,19 @@ I combine a scientific PhD and startup experience to build data-driven solutions
 
 ## Background
 
+### Key Experience
+
 * **Startup ([Infood Protein](https://www.infoodprotein.com/)):** Developed HERMES, an ML model to predict the nutritional composition of Black Soldier Fly larvae meal based on inputs, contributing to sustainable animal feed solutions.
 * **Research Lab ([Universidad Austral de Chile](https://www.uach.cl/)):** Developed automated analysis tools for processing large-scale physiological data (EEG, EMG, EKG, respiratory data).
 * **Research Lab ([CECs](http://www.cecs.cl/website/)):** Developed a fluorescent nanosensor for pyruvate ([PyronicSF]( https://doi.org/10.7554/eLife.53917)), designed and implemented a 3D printed microfluidics chamber for yeast metabolism assessment.
 
-**Technical Skills:** Python (Pandas, Numpy, Scikit-learn, Biopython, Matplotlib, Streamlit), Machine Learning, Data Analysis & Visualization, AI Implementation, Google Colab, Alphafold, Pymol.
+### Technical Skills 
+Python (Pandas, Numpy, Scikit-learn, Biopython, Matplotlib, Streamlit), Machine Learning, Data Analysis & Visualization, AI Implementation, Google Colab, Alphafold, Pymol.
 
-**Scientific Expertise:** Fluorescence Microscopy, Fluorescent Nanosensors, Energy Metabolism, Mitochondrial Energy Metabolism, Microfluidics, Molecular Biology Techniques, Mathematical Modelling, Cell culture. 
+### Scientific Expertise
+Fluorescence Microscopy, Fluorescent Nanosensors, Energy Metabolism, Mitochondrial Energy Metabolism, Microfluidics, Molecular Biology Techniques, Mathematical Modelling, Cell culture. 
 
-## Current Focus:
+### Current Focus
 
 * Applying AI and predictive modeling to solve Biotech problems.
 * Custom data processing and insight generation pipelines.
