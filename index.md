@@ -1,22 +1,25 @@
 # Welcome to My Portfolio  
+Robinson Arce M. | PhD, Cellular & Molecular Biology | Data Scientist<br>
 
-Hello! I’m Robinson, a Data Scientist with a PhD in Cellular and Molecular Biology. I combine rigorous scientific training with expertise in Python, AI, and machine learning, gained through academic research and startup experience. This portfolio showcases my projects in AI-driven sustainability, predictive modeling, and data analysis.
+I combine a scientific PhD and startup experience to build data-driven solutions using Python, AI, and Machine Learning. My work focuses on applying these skills to predictive modeling and sustainability challenges. This portfolio showcases some key projects I have worked on.
 
 ---
 
-## About Me  
-My journey combines deep scientific investigation with cutting-edge data science. Holding a PhD in Cellular and Molecular Biology, I developed expertise in areas like fluorescence microscopy and energy metabolism. This rigorous research foundation now fuels my work as a Data Scientist.
+## Background
 
-**Transition & Experience:** Gained practical experience applying Python, AI, and machine learning in a startup environment, focusing on the development of a model that allows to predict the optimal combination of organic waste to feed Black Soldier Fly larvae and produce high quality protein for animal feed.<br>
-<br>
-**Technical Skills:** Python (Pandas, Scikit-learn, Streamlit), Machine Learning, Data Analysis & Visualization, AI Implementation, Google Colab, Biopython, Alphafold and Pymol.<br>
-<br>
-**Scientific Expertise:** Biochemistry, Cellular/Molecular Biology, Fluorescence Microscopy, Energy Metabolism, Fluorescent Nanosensors, Mathematical modelling.<br>
-<br>
-**Current Focus Areas:** <br>
-- Applying AI and predictive modeling for sustainable development.
-- Developing custom data processing and insight generation pipelines.
-- Seeking opportunities where I can leverage both my scientific background and data science skills.
+* **Startup ([Infood Protein](https://www.infoodprotein.com/)):** Developed HERMES, an ML model to predict the nutritional composition of Black Soldier Fly larvae meal based on inputs, contributing to sustainable animal feed solutions.
+* **Research Lab ([Universidad Austral de Chile](https://www.uach.cl/):** Developed automated analysis tools for processing large-scale physiological data (EEG, EMG, EKG, respiratory data).
+* **Research Lab ([CECs](http://www.cecs.cl/website/):** Developed a fluorescent nanosensor for pyruvate ([PyronicSF]( https://doi.org/10.7554/eLife.53917)), designed and implemented a 3D printed microfluidics chamber for yeast metabolism assessment.
+
+**Technical Skills:** Python (Pandas, Numpy, Scikit-learn, Biopython, Matplotlib, Streamlit), Machine Learning, Data Analysis & Visualization, AI Implementation, Google Colab, Alphafold, Pymol.
+
+**Scientific Expertise:** Fluorescence Microscopy, Fluorescent Nanosensors, Energy Metabolism, Mitochondrial Energy Metabolism, Microfluidics, Molecular Biology Techniques, Mathematical Modelling, Cell culture. 
+
+## Current Focus:
+
+* Applying AI and predictive modeling to solve Biotech problems.
+* Custom data processing and insight generation pipelines.
+* Seeking opportunities to apply my combined **scientific** and **data science** skills.
 
 ---
 
