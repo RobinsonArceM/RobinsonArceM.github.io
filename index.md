@@ -9,7 +9,9 @@ I combine a scientific PhD and startup experience to build data-driven solutions
 ### Key Experience
 
 * **Startup ([Infood Protein](https://www.infoodprotein.com/)):** Developed HERMES, an ML model to predict the nutritional composition of Black Soldier Fly larvae meal based on inputs, contributing to sustainable animal feed solutions.
+  
 * **Research Lab ([Universidad Austral de Chile](https://www.uach.cl/)):** Developed automated analysis tools for processing large-scale physiological data (EEG, EMG, EKG, respiratory data).
+  
 * **Research Lab ([CECs](http://www.cecs.cl/website/)):** Developed a fluorescent nanosensor for pyruvate ([PyronicSF]( https://doi.org/10.7554/eLife.53917)), designed and implemented a 3D printed microfluidics chamber for yeast metabolism assessment.
 
 ### Technical Skills 
