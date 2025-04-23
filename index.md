@@ -8,8 +8,11 @@ Hello! I’m Robinson, a Data Scientist with a PhD in Cellular and Molecular Bio
 My journey combines deep scientific investigation with cutting-edge data science. Holding a PhD in Cellular and Molecular Biology, I developed expertise in areas like fluorescence microscopy and energy metabolism. This rigorous research foundation now fuels my work as a Data Scientist.
 
 **Transition & Experience:** Gained practical experience applying Python, AI, and machine learning in a startup environment, focusing on the development of a model that allows to predict the optimal combination of organic waste to feed Black Soldier Fly larvae and produce high quality protein for animal feed.<br>
+<br>
 **Technical Skills:** Python (Pandas, Scikit-learn, Streamlit), Machine Learning, Data Analysis & Visualization, AI Implementation, Google Colab, Biopython, Alphafold and Pymol.<br>
+<br>
 **Scientific Expertise:** Biochemistry, Cellular/Molecular Biology, Fluorescence Microscopy, Energy Metabolism, Fluorescent Nanosensors, Mathematical modelling.<br>
+<br>
 **Current Focus Areas:** <br>
 - Applying AI and predictive modeling for sustainable development.
 - Developing custom data processing and insight generation pipelines.
@@ -42,10 +45,10 @@ My journey combines deep scientific investigation with cutting-edge data science
 ---
 
 ## Contact  
-Feel free to connect with me for collaborations or inquiries:  
+Feel free to connect with me for collaborations, inquiries or any idea you want to discuss:
 - **Email:**: arcebq@gmail.com
-- [**LinkedIn:**] (https://www.linkedin.com/in/robinson-arce-molina-4566208b/)  
-- [**GitHub:**](https://github.com/RobinsonArceM)  
+- [**LinkedIn**](https://www.linkedin.com/in/robinson-arce-molina-4566208b/)  
+- [**GitHub**](https://github.com/RobinsonArceM)  
 
 ---
 
