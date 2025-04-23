@@ -1,16 +1,19 @@
 # Welcome to My Portfolio  
 
-Hello! I’m Robinson, a biochemist and data scientist with experience in AI-driven solutions for sustainability, predictive modeling, and data analysis. This portfolio highlights my key projects and achievements.
+Hello! I’m Robinson, a Data Scientist with a PhD in Cellular and Molecular Biology. I combine rigorous scientific training with expertise in Python, AI, and machine learning, gained through academic research and startup experience. This portfolio showcases my projects in AI-driven sustainability, predictive modeling, and data analysis.
 
 ---
 
 ## About Me  
-- **Expertise:** Biochemistry, Data Science, Machine Learning  
-- **Key Skills:** Python, Data Analysis, Machine Learning Modeling, GitHub, Google Colab  
-- **Focus Areas:**  
-  - AI-driven solutions for sustainable development  
-  - Nutritional analysis and insect meal optimization  
-  - File processing for custom data insights  
+My journey combines deep scientific investigation with cutting-edge data science. Holding a PhD in Cellular and Molecular Biology, I developed expertise in areas like fluorescence microscopy and energy metabolism. This rigorous research foundation now fuels my work as a Data Scientist.
+
+**Transition & Experience:** Gained practical experience applying Python, AI, and machine learning in a startup environment, focusing on the development of a model that allows to predict the optimal combination of organic waste to feed Black Soldier Fly larvae and produce high quality protein for animal feed.
+**Technical Skills:** Python (Pandas, Scikit-learn, Streamlit), Machine Learning, Data Analysis & Visualization, AI Implementation, Google Colab, Biopython, Alphafold and Pymol.
+**Scientific Expertise:** Biochemistry, Cellular/Molecular Biology, Fluorescence Microscopy, Energy Metabolism, Fluorescent Nanosensors, Mathematical modelling.
+**Current Focus Areas:**
+- Applying AI and predictive modeling for sustainable development.
+- Developing custom data processing and insight generation pipelines.
+- Seeking opportunities where I can leverage both my scientific background and data science skills.
 
 ---
 
@@ -40,10 +43,9 @@ Hello! I’m Robinson, a biochemist and data scientist with experience in AI-dri
 
 ## Contact  
 Feel free to connect with me for collaborations or inquiries:  
-- **Email:** [email@email.com]  
-- **LinkedIn:** [LinkedIn Profile](#)  
+- **Email:** [arcebq@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/robinson-arce-molina-4566208b/](#)  
 - **GitHub:** [RobinsonArceM](https://github.com/RobinsonArceM)  
 
 ---
 
-Thanks for visiting! 🚀  
