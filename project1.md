@@ -44,17 +44,17 @@ The HERMES system consists of several interconnected modules, trained on data fr
     * The entire pipeline (forward models, reverse optimization, ingredient solver) was integrated into a functional application using Streamlit.
     * The application allows users to input desired target values (e.g., protein %) and efficiently returns the recommended optimal diet ingredients and environmental parameters.
 
-<img src="./assets/HERMES_streamlit1.png" alt="HERMES streamlit app1" style="width:90%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<img src="./assets/HERMES_streamlit1.png" alt="HERMES streamlit app1" style="width:100%; height:auto; display: block; margin-left: auto; margin-right: auto;">
 <p style="text-align: center; font-style: italic;">HERMES Streamlit app interface. Target and available ingredients are selected by the user.</p>
 
-<img src="./assets/HERMES_streamlit2.png" alt="HERMES streamlit app2" style="width:90%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<img src="./assets/HERMES_streamlit2.png" alt="HERMES streamlit app2" style="width:100%; height:auto; display: block; margin-left: auto; margin-right: auto;">
 <p style="text-align: center; font-style: italic;">HERMES Streamlit app interface. After pressing the Run Hermes button the optimized ingredient combination and environmental parameters are displayed.</p>
 
 ## Results & Impact
 
 * **Predictive Accuracy:** The forward Gradient Boosting models achieved an **R-squared (R²) of ~0.7**, demonstrating significant predictive capability for these complex biological outcomes.
 
-<img src="./assets/HERMES_optimization1.png" alt="Hermes optimization" style="width:90%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<img src="./assets/HERMES_optimization1.png" alt="Hermes optimization" style="width:100%; height:auto; display: block; margin-left: auto; margin-right: auto;">
 <p style="text-align: center; font-style: italic;">Improvement of the model as function of increasing dataset size. The model reaches a R-squared value of around 0.7.</p>
 
 * **Optimization Success:** The reverse optimization and ingredient solver successfully identified viable diet compositions and environmental conditions to meet user-defined nutritional targets.
@@ -74,6 +74,6 @@ The HERMES system consists of several interconnected modules, trained on data fr
 
 ## Links & Availability
 
-* **Company:** [Infood Protein](https://www.infoodprotein.com/) (Link to their website)
+* **Company:** [Infood Protein.](https://www.infoodprotein.com/)
 * **Application:** The HERMES Streamlit application is internal intellectual property and requires credentials for access.
 * **Code:** The code repository is private due to proprietary data and algorithms.
