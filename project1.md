@@ -25,11 +25,13 @@ As the Director and lead Data Scientist on this project, I was responsible for t
 
 The HERMES system consists of several interconnected modules, trained on data from ~200 experimental diets:
 
+
+
+```html
+<img src="./assets/HERMES_schematic1.png" alt="HERMES System Architecture" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align: center; font-style: italic;">System architecture of HERMES</p>
+```
 System architecture of HERMES, showing the forward prediction, reverse optimization, and ingredient solver components.
-    ```html
-    <img src="./assets/HERMES_schematic1.png" alt="HERMES System Architecture" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
-    <p style="text-align: center; font-style: italic;">System architecture of HERMES</p>
-    ```
 
 * **Data:** Utilized experimental data encompassing ~200 different diet formulations fed to Black Soldier Fly larvae. Diets were generated as sparse as possible in a 7-dimensional nutrient space using a Python implementation of a maximin optimizer.
     * **Input Features:** Included dietary nutritional components (protein, fiber, ashes, sugar, etc), and environmental variables (temperature, humidity, diet pH, etc).
@@ -47,27 +49,27 @@ System architecture of HERMES, showing the forward prediction, reverse optimizat
     * The entire pipeline (forward models, reverse optimization, ingredient solver) was integrated into a functional application using Streamlit.
     * The application allows users to input desired target values (e.g., protein %) and efficiently returns the recommended optimal diet ingredients and environmental parameters.
 
-Insert images of the streamlit interface here
-    ```html
-    <img src="./assets/HERMES_streamlit1.png" alt="HERMES streamlit app" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
-    <p style="text-align: center; font-style: italic;">Hermes Streamlit app</p>
-    ```
+```html
+<img src="./assets/HERMES_streamlit1.png" alt="HERMES streamlit app" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align: center; font-style: italic;">Hermes Streamlit app</p>
+```
+HERMES Streamlit app interface. Target and available ingredients are selected by the user.
 
-    ```html
-    <img src="./assets/HERMES_streamlit2.png" alt="HERMES streamlit app" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
-    <p style="text-align: center; font-style: italic;">Hermes Streamlit app</p>
-    ```
+```html
+<img src="./assets/HERMES_streamlit2.png" alt="HERMES streamlit app" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align: center; font-style: italic;">Hermes Streamlit app</p>
+```
+HERMES Streamlit app interface. After pressing the Run Hermes button the optimized ingredient combination and environmental parameters are displayed.
 
 ## Results & Impact
 
 * **Predictive Accuracy:** The forward Gradient Boosting models achieved an **R-squared (R²) of ~0.7**, demonstrating significant predictive capability for these complex biological outcomes.
 
-Insert image of the optimization here
-
-    ```html
-    <img src="./assets/HERMES_optimization1.png" alt="Hermes optimization" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
-    <p style="text-align: center; font-style: italic;">Hermes optimization</p>
-    ```
+```html
+<img src="./assets/HERMES_optimization1.png" alt="Hermes optimization" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align: center; font-style: italic;">Hermes optimization</p>
+```
+Improvement of the model as function of increasing dataset size. The model reaches a R-squared value of around 0.7.
 
 * **Optimization Success:** The reverse optimization and ingredient solver successfully identified viable diet compositions and environmental conditions to meet user-defined nutritional targets.
 * **Business Impact:** HERMES provided Infood Protein with a powerful tool for data-driven decision-making, enabling them to:
