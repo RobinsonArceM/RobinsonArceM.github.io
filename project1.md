@@ -53,6 +53,11 @@ Insert images of the streamlit interface here
     <p style="text-align: center; font-style: italic;">Hermes Streamlit app</p>
     ```
 
+    ```html
+    <img src="./assets/HERMES_streamlit2.png" alt="HERMES streamlit app" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+    <p style="text-align: center; font-style: italic;">Hermes Streamlit app</p>
+    ```
+
 ## Results & Impact
 
 * **Predictive Accuracy:** The forward Gradient Boosting models achieved an **R-squared (R²) of ~0.7**, demonstrating significant predictive capability for these complex biological outcomes.
