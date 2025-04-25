@@ -45,17 +45,17 @@ The analysis pipeline was implemented as an object-oriented Python class (`Apnea
     * **Per-Event Plots:** Generates plots for each detected event showing raw, filtered, smoothed, and derivative signals, clearly highlighting the event boundaries and pre-event windows.
     * **Excel Summary:** Creates a detailed Excel spreadsheet listing all detected events and their calculated metrics (Duration, CV, Sigh Index, etc.). **Crucially, this report includes clickable hyperlinks directly to the generated plot images for each event**, allowing for extremely rapid expert verification and classification.
 
-**(Placeholder: Insert plot comparing Raw vs Derivative signal during an apnea)**
-* *Caption Suggestion:* Example showing how the derivative (bottom trace) clearly drops during an apnea event identified in the raw airflow signal (top trace).
+<img src="./assets/P2_rawvsderiv.png" alt="Description of image" style="width:100%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align: center; font-style: italic;">Example showing how the derivative (bottom trace) clearly drops during an apnea event identified in the raw airflow signal (top trace).</p>
 
-**(Placeholder: Insert plot comparing Sigh Index for PSA vs non-PSA)**
-* *Caption Suggestion:* Demonstration of the custom "Sigh Index" metric effectively differentiating Post-Sigh Apneas (right) from typical apneas (left).
+<img src="./assets/P2_sigh.png" alt="Description of image" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align: center; font-style: italic;">Demonstration of the custom "Sigh Index" metric effectively increasing with Post-Sigh Apneas</p>
 
-**(Placeholder: Insert plot comparing CV for Apnea vs Hypopnea)**
-* *Caption Suggestion:* Example showing how the Coefficient of Variation (CV) helps distinguish low-variability apneas from higher-variability hypopneas.
+<img src="./assets/P2_hipo.png" alt="Description of image" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align: center; font-style: italic;">Example showing how the Coefficient of Variation (CV) helps distinguish low-variability apneas from higher-variability hypopneas.</p>
 
-**(Placeholder: Insert screenshot/example of Excel output with image links)**
-* *Caption Suggestion:* Final Excel report summarizing detected events with calculated metrics and embedded hyperlinks to individual event plots for rapid expert review.
+<img src="./assets/P2_excel.png" alt="Description of image" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<p style="text-align: center; font-style: italic;">Final Excel report summarizing detected events with calculated metrics and embedded hyperlinks to individual event plots for rapid expert review.</p>
 
 ## Results & Impact
 
