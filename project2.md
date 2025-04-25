@@ -52,7 +52,7 @@ The analysis pipeline was implemented as an object-oriented Python class (`Apnea
 <img src="./assets/P2_sigh.png" alt="Description of image" style="width:70%; height:auto; display: block; margin-left: auto; margin-right: auto;">
 <p style="text-align: center; font-style: italic;">Demonstration of the custom "Sigh Index" metric effectively increasing with Post-Sigh Apneas</p>
 
-<img src="./assets/P2_hipo.png" alt="Description of image" style="width:100%; height:auto; display: block; margin-left: auto; margin-right: auto;">
+<img src="./assets/P2_hipo.png" alt="Description of image" style="width:70%; height:auto; display: block; margin-left: auto; margin-right: auto;">
 <p style="text-align: center; font-style: italic;">Example showing how the Coefficient of Variation (CV) helps distinguish low-variability apneas from higher-variability hypopneas.</p>
 
 <img src="./assets/P2_excel.jpeg" alt="Description of image" style="width:100%; height:auto; display: block; margin-left: auto; margin-right: auto;">
