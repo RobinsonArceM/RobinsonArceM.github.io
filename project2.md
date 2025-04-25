@@ -49,14 +49,17 @@ The analysis pipeline was implemented as an object-oriented Python class (`Apnea
 <img src="./assets/P2_deriv.png" alt="Description of image" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
 <p style="text-align: center; font-style: italic;">Example showing how the derivative (bottom trace) clearly drops during an apnea event identified in the raw airflow signal (top trace).</p>
 
+
 <img src="./assets/P2_sigh.png" alt="Description of image" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
-<p style="text-align: center; font-style: italic;">Demonstration of the custom "Sigh Index" metric effectively increasing with Post-Sigh Apneas</p>
+<p style="text-align: center; font-style: italic;">Example of a post-sigh apnea (PSA), which shows a peak in the purple area, this kind of event shows a high "sigh index".</p>
+
 
 <img src="./assets/P2_hipo.png" alt="Description of image" style="width:80%; height:auto; display: block; margin-left: auto; margin-right: auto;">
-<p style="text-align: center; font-style: italic;">Example showing how the Coefficient of Variation (CV) helps distinguish low-variability apneas from higher-variability hypopneas.</p>
+<p style="text-align: center; font-style: italic;">Example showing an hypopnea event, which would have a high Coefficient of Variation (CV).</p>
+
 
 <img src="./assets/P2_excel.jpeg" alt="Description of image" style="width:140%; height:auto; display: block; margin-left: auto; margin-right: auto;">
-<p style="text-align: center; font-style: italic;">Final Excel report summarizing detected events with calculated metrics and embedded hyperlinks to individual event plots for rapid expert review.</p>
+<p style="text-align: center; font-style: italic;">Final Excel report summarizing detected events with calculated metrics and hyperlinks to individual event plots for rapid expert review, each row represents a single apnea.</p>
 
 ## Results & Impact
 
