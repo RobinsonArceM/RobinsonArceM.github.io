@@ -41,8 +41,8 @@ Fluorescence Microscopy, Fluorescent Nanosensors, Energy Metabolism, Mitochondri
 
 <!-- Project 2 -->
 <div style="width: 45%; margin: 10px;">
-  <h3><a href="./project2">EDF File Analysis and Event Detection</a></h3>
-  <img src="./assets/placeholder2.png" alt="EDF File Analysis" style="width:100%; height:auto;">
+  <h3><a href="./project2">Automated apnea detection and classification</a></h3>
+  <img src="./assets/P2_sigh.png" alt="EDF File Analysis" style="width:100%; height:auto;">
   <p><strong>Skills Used:</strong> Python, Pandas, Signal Analysis</p>
 </div>
 
